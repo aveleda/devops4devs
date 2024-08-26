@@ -20,3 +20,15 @@ k3d cluster create meucluster --servers 3 --agents 3 -p "30000:30000@loadbalance
 ### Instalação do Azure CLI
 
 [https://learn.microsoft.com/en-us/cli/azure/install-azure-cli](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
+
+
+## Live de Encerramento
+
+### Dashboards .NET
+[https://github.com/prometheus-net/grafana-dashboards](https://github.com/prometheus-net/grafana-dashboards)
+
+### Kubernetes
+
+[https://grafana.com/grafana/dashboards/12006-kubernetes-apiserver/](https://grafana.com/grafana/dashboards/12006-kubernetes-apiserver/)
+
+[https://grafana.com/grafana/dashboards/747-pod-metrics/](https://grafana.com/grafana/dashboards/747-pod-metrics/)
